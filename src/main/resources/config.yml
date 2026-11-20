@@ -1,0 +1,14 @@
+# h = knockback افقی ، v = knockback عمودی ، hits = تعداد ضربات بات ، interval = فاصله ضربات (tick)
+dummy:
+  h: 0.4
+  v: 0.36
+clutch:
+  h: 0.6
+  v: 0.4
+  hits: 3
+  interval: 10
+kbreset:
+  h: 0.4
+  v: 0.36
+  hits: 1
+  interval: 10

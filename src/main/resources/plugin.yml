@@ -1,0 +1,9 @@
+name: PvPPractice
+version: 1.0
+main: pt.practice.PracticePlugin
+description: PvP practice - bridge, dummies, clutch, KB reset
+commands:
+  pt:
+    description: PvP practice
+    aliases: [practice]
+    usage: /pt <bridge|dummy|clutch|kbreset|leave|clear|kb|set|info>
